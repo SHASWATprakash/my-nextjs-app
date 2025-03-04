@@ -29,4 +29,4 @@ This project is an enterprise-standard implementation of the FrontEnd Developer 
 
    ```bash
    git clone https://github.com/SHASWATprakash/my-nextjs-app.git
-   cd learnonnew
+   cd my-nextjs-app
