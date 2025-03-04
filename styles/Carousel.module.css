@@ -1,0 +1,39 @@
+/* styles/Carousel.module.css */
+
+.carouselContainer {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 8px;
+  }
+  
+  .carouselSlide img {
+    width: 100%;
+    display: block;
+  }
+  
+  .prevButton,
+  .nextButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0,0,0,0.4);
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    z-index: 10;
+    outline: none;
+  }
+  
+  .prevButton {
+    left: 0;
+  }
+  
+  .nextButton {
+    right: 0;
+  }
+  
