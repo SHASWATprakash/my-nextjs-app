@@ -28,5 +28,5 @@ This project is an enterprise-standard implementation of the FrontEnd Developer 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SHASWATprakash/learnonnew.git
+   git clone https://github.com/SHASWATprakash/my-nextjs-app.git
    cd learnonnew
